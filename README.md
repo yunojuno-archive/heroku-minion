@@ -4,7 +4,7 @@ Deployment and configuration tools for Heroku-based applications.
 
 ## What?
 
-An command-line tool to automate and facilitate an opinionated
+A command-line tool to automate an opinionated
 deployment workflow for Django applications on Heroku. Three critical
 functions are included (with various options):
 
